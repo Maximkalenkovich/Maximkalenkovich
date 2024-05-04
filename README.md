@@ -9,6 +9,9 @@
       <div align='center'>
     <img src="https://www.codewars.com/users/Maximkalenkovich%20/badges/large" alt="LinkedIn Badge"/>
   </div>
+     <div align='center'>
+    <img src="https://leetcode.com/u/MaximPeterson/" alt="LinkedIn Badge"/>
+  </div>
   <h1>
   hey samuray
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
